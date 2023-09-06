@@ -18,4 +18,5 @@ Responder la solicitud de la empresa ICE con la detección de patrones y declara
 
 ### Dashboard Final:
 ![Dashboard Final]("https://github.com/AntonioMDO/Busqueda_de_patrones/blob/main/Post_an%C3%A1lisis/DB.png")
+![Dashboard Final]("https://github.com/AntonioMDO/Busqueda_de_patrones/blob/c2a06b359038be6449ce3dfc4e6119c334bd6851/Post_an%C3%A1lisis/DB.png")
 ### Gracias por revisar mi repositorio!
