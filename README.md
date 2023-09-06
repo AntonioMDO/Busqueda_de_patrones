@@ -10,7 +10,6 @@ Esto con el objetivo de detectar proyectos prometedores y planificar campañas p
 - Pandas 🐼
 - Matplotlib 📊
 - Numpy 🖥️
-- Seaborn 📈
 - Scipy 📉
 
 ### **Objetivo:**
