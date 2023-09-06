@@ -17,5 +17,5 @@ Esto con el objetivo de detectar proyectos prometedores y planificar campañas p
 Responder la solicitud de la empresa ICE con la detección de patrones y declarar las características fundamentales para la campaña publicitaria.
 
 ### Dashboard Final:
-![Dashboard Final]("https://github.com/AntonioMDO/Busqueda_de_patrones/blob/main/DB.jpg")
+![Dashboard Final]("https://github.com/AntonioMDO/Busqueda_de_patrones/blob/ed96da22402f5c51c999fba74b1f104011c795d3/DB.jpg")
 ### Gracias por revisar mi repositorio!
